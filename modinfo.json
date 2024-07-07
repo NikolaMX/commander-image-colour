@@ -1,0 +1,28 @@
+{
+  "author": "wondible, Ferretmaster, Nik",
+  "build": "120799",
+  "category": ["ui"],
+  "context": "client",
+  "date": "2024/07/07",
+  "description": "Set commander team colors on loading cinematic, and random colors on start screen.",
+  "display_name": "Commander Image Color Re-Release",
+  "forum": "https://forums.uberent.com/threads/rel-commander-image-color.64640/",
+  "icon": "https://cdn.discordapp.com/attachments/1101497101197774941/1259556391740506123/color.png?ex=668c1ccd&is=668acb4d&hm=e42a0ad027ab3c64425e02b22423025401e96650ce5607f0da201deb3d17d030&",
+  "identifier": "com.wondible.pa.commander_image_color_2",
+  "priority": 100,
+  "scenes": {
+    "start": [
+      "coui://ui/mods/commander_image_color/commander_image_color.js",
+      "coui://ui/mods/commander_image_color/start.js"
+    ],
+    "new_game": [
+      "coui://ui/mods/commander_image_color/new_game.js"
+    ],
+    "new_game_cinematic": [
+      "coui://ui/mods/commander_image_color/commander_image_color.js",
+      "coui://ui/mods/commander_image_color/new_game_cinematic.js"
+    ]
+  },
+  "signature": "not yet implemented",
+  "version": "1.2"
+}
