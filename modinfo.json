@@ -7,7 +7,7 @@
   "description": "Set commander team colors on loading cinematic, and random colors on start screen.",
   "display_name": "Commander Image Color Re-Release",
   "forum": "https://forums.uberent.com/threads/rel-commander-image-color.64640/",
-  "icon": "https://cdn.discordapp.com/attachments/1101497101197774941/1259556391740506123/color.png?ex=669162cd&is=6690114d&hm=bba5a2b2b5d661df5111c6769e1855a1448d57ac1c9f43d6cb15ca61720cc591&",
+  "icon": "https://imgur.com/j8H9iUu",
   "identifier": "com.wondible.pa.commander_image_color_2",
   "priority": 100,
   "scenes": {
