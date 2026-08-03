@@ -8,7 +8,7 @@
   "description": "Set commander team colors on loading cinematic, and random colors on the start screen and in the armory.",
   "forum": "https://forums.uberent.com/threads/rel-commander-image-color.64640/",
   "identifier": "com.wondible.pa.commander_image_color_2",
-  "icon": "https://cdn.discordapp.com/attachments/1101497101197774941/1259556391740506123/color.png?ex=668c1ccd&is=668acb4d&hm=e42a0ad027ab3c64425e02b22423025401e96650ce5607f0da201deb3d17d030&",
+  "icon": "https://raw.githubusercontent.com/NikolaMX/commander-image-colour/refs/heads/main/icon.gif",
   "priority": 100,
   "scenes": {
     "armory": [
